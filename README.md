@@ -1,1 +1,0 @@
-# vegamus-teach.github.io
