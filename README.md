@@ -1,1 +1,1 @@
-# old-vegamus-teach.github.io
+# vegamus-teach.github.io
